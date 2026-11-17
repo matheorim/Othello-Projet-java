@@ -1,5 +1,7 @@
 # Othello-Projet-java
 
+🇬🇧 [English version](README.md)
+
 Projet Orthello (java) réalisé à l'IUT : implémentation en **Java** d'un jeu de plateau à deux équipes sur une grille **hexagonale**, avec des **anneaux** et des **pions**, et la suppression de lignes alignées. Le jeu se joue pour l'instant en **interface console** (CUI).
 
 Le projet est composé de deux modules Maven :
